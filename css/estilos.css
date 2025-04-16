@@ -1,0 +1,40 @@
+body{
+    background-color: #E0DCCB;
+    color: #111316;
+}
+
+h1,h2{
+    text-align: center;
+}
+
+h1{
+    text-transform: uppercase;
+    color: #2C7694;
+}
+
+h2,h3{
+    text-transform: none ;
+    color: #111316;
+}
+
+
+h4{
+    text-transform: capitalize;
+    color: #111316;
+}
+
+a{
+    color: #004420;
+    text-decoration: none;
+}
+
+p{
+    color: #111316;
+}
+
+img{
+    width: 50%;
+    border-radius: 100px;
+    display: block;
+    margin: 50px auto;
+}
